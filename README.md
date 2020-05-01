@@ -25,6 +25,10 @@ should be consistent with the diagram below.
 
 ![workflow-LowLevel](workflow-LowLevel.svg)
 
+<p align="center">
+<img src="workflow-LowLevel.svg">
+</p>
+
 - The work in the repository should happen only in the git branch named *work*.
 
 - The allowed operations on the *master* branch are the *git branch* at the beginning of the work phase and the *git merge* at the end of it.
