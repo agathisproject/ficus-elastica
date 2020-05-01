@@ -1,6 +1,6 @@
-- The *projects high-level workflow* should be consistent with the diagram below.
+<p align="center"> <img src="workflow-HighLevel.svg"> </p>
 
-![workflow-LowLevel](workflow-HighLevel.svg)
+- The *projects high-level workflow* should be consistent with the diagram above.
 
 - The **project**, usually identified by its doc set hosted in a distinct GitHub repository, provides the overall framework for the workflow.
 
@@ -20,14 +20,10 @@
 - To avoid resource wasting mistakes, frequent work testing against the up-stream design specifications is mandated.
 
 
+<p align="center"> <img src="workflow-LowLevel.svg"> </p>
+
 - Every *low level workflow* phase, such as **idea, specification or implementation**
-should be consistent with the diagram below.
-
-![workflow-LowLevel](workflow-LowLevel.svg)
-
-<p align="center">
-<img src="workflow-LowLevel.svg">
-</p>
+should be consistent with the diagram above.
 
 - The work in the repository should happen only in the git branch named *work*.
 
